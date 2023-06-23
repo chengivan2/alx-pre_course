@@ -1,1 +1,1 @@
-My first readme inside project folder
+This is the first README file in the folder project
