@@ -1,1 +1,1 @@
-The project folder's README file
+project folder README
